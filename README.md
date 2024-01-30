@@ -13,8 +13,7 @@ Finally, we will explore any trends in wheat usage and wheat export?
 
 ## Presentation
 
-This presentation has been done using google slides:
-Presentation link: https://docs.google.com/presentation/d/1usMpgnbRO5WMAWtv1bCxrfupISlKdCbGbidqQMpyngU/edit?usp=sharing
+This presentation has been done using google slide: https://docs.google.com/presentation/d/1usMpgnbRO5WMAWtv1bCxrfupISlKdCbGbidqQMpyngU/edit?usp=sharing
 
 ## Resources
 
