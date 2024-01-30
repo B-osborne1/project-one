@@ -19,7 +19,7 @@ Presentation link: https://docs.google.com/presentation/d/1usMpgnbRO5WMAWtv1bCxr
 ## Resources
 
 Climate analysis:
-* Ocean temperature change (1960-2023?)
+* Ocean temperature change (1960) - From kaggle
 * Open Weather API
 * BOM
 
@@ -40,3 +40,31 @@ Wheat production, export, and usage:
 `Resources/CoffinBay_SA_BOM/`
 * This contains data from the BOM for Wanilla.
 * The main files used here are the the two csv files
+
+`Resources/Dubbo_NSW_BOM/`
+* This contains data from the BOM for Dubbo.
+* The main files used here are the the two csv files
+
+`Resources/Northam_WA_BOM/`
+* This contains data from the BOM for Northam.
+* The main files used here are the the two csv files
+
+`Resources/Wangaratta_VIC_BOM/`
+* This contains data from the BOM for Wangaratta.
+* The main files used here are the the two csv files
+
+`Resources/ENSO_scores_2000_2023.xlsx`
+* This data source was abandoned due to time constraints
+
+`Resources/GMR_Summary.csv`
+* A wheat production and export dataset
+
+`Resources/Temperature_change_oceania_1960.csv`
+* A global temperature change dataset
+
+`Resources/Wheat_StateByState.csv and Resources/Wheat_StateByState_formatted.csv`
+* A dataset of weat production by state
+
+`fdp-beta-state-historical (1).csv`
+* A Wheat production dataset
+* wheat_export.xlsx
