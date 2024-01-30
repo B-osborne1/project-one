@@ -3,15 +3,19 @@
 Made on the 30th of January 2014
 Team members: Caroline Jennings, Jolly Joseph, Brett Osborne, Lucas Ulbrich
 
-In this project we explore the changes to climate and weather with climate change and its effects on wheat production, use, and export. By using a Jupyter notebook, pandas, and matplotlib, we were able to create to gather data from a wide range of sources and create graphs and visualisations to help better understand the effect climate change has on wheat production in Australia.
+In this project we explore the changes to climate and weather with climate change and its effects on wheat production, use, and export. By using a Jupyter notebook, pandas, and matplotlib, we were able to create and gather data from a wide range of sources and create graphs and visualisations to help better understand the effect climate change has on wheat production in Australia.
 
-Firstly, we're going to see wether Australian has been impacted by climate change
+Firstly, we're going to see whether Australia has been impacted by climate change
 
-Secondly, we will see if there is any relation between wheat production and climate change?
+Secondly, we will see if there is any relation between wheat production and climate change
 
-Finally, we will explore any trends in wheat usage and wheat export?
+Finally, we will explore any trends in wheat usage and wheat export
+
+An analysis will be completed on the project_main_script_final.ipynb file at multiple points of the code. These will attempt to conclusively answer the above questions, whether positively or negatively, based on both the univariate and bivariate data portions of each section.
 
 ## Presentation
+
+A presentation was produced to outline all findings within this study. For an organised overlook of the graphs produced, this presentation is recommended, but for a written acocunt, refer to the main script.
 
 This presentation has been done using google slide: https://docs.google.com/presentation/d/1usMpgnbRO5WMAWtv1bCxrfupISlKdCbGbidqQMpyngU/edit?usp=sharing
 
